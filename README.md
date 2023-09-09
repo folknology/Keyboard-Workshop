@@ -1,5 +1,6 @@
 # OSHCamp 2023 Workshop - Build an OS Reviung34 Keyboard
 
+We will be building a keyboard from the [Reviung](https://github.com/gtips/reviung) family called the [Reviung34](https://github.com/gtips/reviung/tree/master/reviung34)
 ![Reviung 34](./images/Workshop-Reviung34-rot.jpg)
 
 [QMK Firmware](https://github.com/qmk/qmk_firmware)
