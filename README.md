@@ -4,7 +4,7 @@ The workshop gets participants to build a keyboard from the [Reviung](https://gi
 ![Reviung 34](./images/Workshop-Reviung34-rot.jpg)
 
 [QMK Firmware](https://github.com/qmk/qmk_firmware)
-follow the installation instructions in the repo, it does  install a lot of toolchains BTW!
+follow the installation instructions in the repo, it does  install a lot of tool-chains BTW!
 
 [QMK Configurator layout](https://config.qmk.fm/#/reviung/reviung34/LAYOUT_reviung34)
 download the layout and rename it to:
