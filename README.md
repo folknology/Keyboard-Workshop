@@ -12,7 +12,7 @@ download the layout and rename it to:
 
 Alternatively if you do not wish to change the layout you can just use the [keymap.c](./reviung34/keymap.c) in this repo
 
-**Note:** *the default QMK Configurator layout uses the split version which is a little confusing. The 4 thumb keys are incorrectly ordered, have a play around you will see the difference.*
+**Note:** *the default QMK Configurator layout uses the split keyboard version which is a little confusing. The 4 thumb keys are incorrectly ordered to the non-split version, have a play around after flashing it, you will see the difference.*
 
 
 ## Using the KB2040 as the ProMicro 
