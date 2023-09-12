@@ -34,3 +34,6 @@ If you have any questions just create an issue on this repo.
 ![5](./images/20230827_114513.jpg)
 ![6](./images/20230827_114551.jpg)
 
+
+*Thank you to [SHMakerspace](https://www.shmakerspace.org/) for the loan of their soldering irons for the workshop*
+
