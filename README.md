@@ -25,6 +25,10 @@ This Builds and the loads the KB2040 version of the firmware
 
 If you have any questions just create an issue on this repo.
 
+Keyboard pics from participants
+[Concrete dog's](https://twitter.com/concreted0g/status/1696549243266150841) ![ Orange/black themed Revung34](./images/con)
+
+
 ## Here are some pics of the [OSHCAMP 2023](https://oshug.org/event/oshcamp2023) workshop:
 
 ![1](./images/20230827_114513.jpg)
