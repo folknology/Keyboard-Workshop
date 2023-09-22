@@ -17,7 +17,7 @@ Alternatively if you do not wish to change the layout you can just use the [keym
 
 ## Using the KB2040 as the ProMicro 
 Make sure you power up the KB2040 over USB whilst holding the boot button to power it into boot loader mode
-Build and flash the firmware:
+Build and  flash the firmware:
 ```
 qmk flash -kb reviung34 -km default_rgb -e CONVERT_TO=kb2040
 ```
@@ -25,8 +25,8 @@ This Builds and the loads the KB2040 version of the firmware
 
 If you have any questions just create an issue on this repo.
 
-## Keyboard pics from participants
-[Concrete dog's Orange/black themed Revung34](https://twitter.com/concreted0g/status/1696549243266150841) ![ Orange/black themed Revung34](./images/concretedog-r34.jpeg)
+## Keyboard pics from workshop participants:
+[Concrete dog's orange/black themed Reviung34](https://twitter.com/concreted0g/status/1696549243266150841) ![ Orange/black themed Revung34](./images/concretedog-r34.jpeg)
 
 
 ## Here are some pics of the [OSHCAMP 2023](https://oshug.org/event/oshcamp2023) workshop:
