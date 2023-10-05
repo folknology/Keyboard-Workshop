@@ -27,6 +27,8 @@ If you have any questions just create an issue on this repo.
 
 ## Keyboard pics from workshop participants:
 [Concrete dog's orange/black themed Reviung34](https://twitter.com/concreted0g/status/1696549243266150841) ![ Orange/black themed Revung34](./images/concretedog-r34.jpeg)
+[RC2014's grey/blue/black themed Reviung34](https://twitter.com/ZxSpectROM/status/1709668349142069694) ![ grey/blue/black themed Reviung34](./images/rc2014.jpeg)
+
 
 
 ## Here are some pics of the [OSHCAMP 2023](https://oshug.org/event/oshcamp2023) workshop:
